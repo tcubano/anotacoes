@@ -1,37 +1,76 @@
-## Welcome to GitHub Pages
+# Tema 05 - Curricularização da Extensão 
+## Encontro 02
 
-You can use the [editor on GitHub](https://github.com/tcubano/anotacoes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Informações técnicas
+Início às 19h
+Duração: 2h
+Local: chat de áudio no Discord
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Atividades
 
-### Markdown
+### Mística inicial (19:05-19:10)
+5 coisas que pode ver 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+4 coisas que pode tocar 
 
-```markdown
-Syntax highlighted code block
+3 coisas que pode ouvir
 
-# Header 1
-## Header 2
-### Header 3
+2 sentir o cheiro
 
-- Bulleted
-- List
+1 sentir o sabor
 
-1. Numbered
-2. List
+### Atividade inicial (19:10-19:15)
 
-**Bold** and _Italic_ and `Code` text
+##### (lembrete último encontro)
+Debatemos no último encontro sobre as DCNs, como estão sendo aplicadas na UFSC e pincelamos outras universidades. No final decidimos focar nos seguintes pontos para este encontro:
 
-[Link](url) and ![Image](src)
-```
+* Projetos de extensão que aconteceram no passado - analisar para ter exemplos (o que eu falei acima mesmo)
+* Como nós conseguimos ajudar (no processo de curricularização)? facilitar o processo pra nós mesmos/as e pro nosso departamento.
+* Pesquisa Mussoi e Lenzi (2015) - análise projetos de extensão da UFSC ao longo dos anos
+* Como dar notas para extensionistas?
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Atividade 2 - Histórico da Extensão na UFSC (19:20-20:00) 
+Alguém leu Mussoi e Lenzi (2015)? Se sim, o que acharam? 
+(eu) levar o que li e compartilhar. Pontos principais anotados no Zotero.
 
-### Jekyll Themes
+#### localização projetos
+A UFSC deveria expandir os projetos de extensão para outras regiões distantes dos campus? 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tcubano/anotacoes/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Como? Não é muito mais fácil e menos custoso fazer próximo? Quais outras implicações existem?
 
-### Support or Contact
+Devemos levar essas questões para os departamentos?
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#### interdisciplinaridade
+A interdisciplinariedade é uma demanda real? Devemos focar nela ou em outras, a princípio?
+
+O que é? Como valorizá-la interdisciplinariedade?
+
+Como nós como estudantes podemos ajudar e levar essa demanda para os departamentos? 
+
+### Atividade 3 - Sobre a curricularização na UFSC
+A proposta da Eng. Civil é válida para curricularizar a extensão? É uma extensão verdadeira?
+
+Notícias sobre o processo na UFSC? (tenho da sanitária)
+
+Como dar notas para extensionistas?
+
+### Atividade 4 - Outras questões 
+
+Como devemos agir a partir de agora? 
+
+### Finalização(20:50-21h)
+
+#### PRÓXIMO ENCONTRO mudaremos de tema. Será no dia 05/08 (primeira quinta do mês)
+
+Sugestões de temas?
+
+Minha ideia: interdisciplinariedade
+
+---
+## Anotações durante o encontro
+
+Ideia: ser obrigatório para os/as profs apresentarem um apanhado das ações/projetos de extensão existentes no departamento.
+
+Interdisciplinariedade: tentar fazer com que a pro-reitoria de extensão faça isso acontecer.
+
+Localização de projetos: inserir um ponto para tentar realizar projetos além da grande florianópolis (não precisa ser obrigatório, mas usar isso como uma semente pro futuro).
